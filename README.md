@@ -2,11 +2,8 @@
 <div align="center">
 
 # Tic Tac Toe Game
-  A Modern Interactive Tic Tac Toe Game Built with HTML, CSS & JavaScript
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Faiza-Umar/tic-tac-toe-game)
-![GitHub stars](https://img.shields.io/github/stars/Faiza-Umar/tic-tac-toe-game?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Faiza-Umar/tic-tac-toe-game?style=social)
+ A simple interactive **Tic Tac Toe game** built with **HTML, CSS, and JavaScript**.  
+This project demonstrates DOM manipulation and basic game logic.
 
 </div>
 
